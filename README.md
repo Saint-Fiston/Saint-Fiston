@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠​ Final year Computer science and Electronics student at NWU (RSA) <br>🌌​ I design web applications and mobile aplication layouts​<br>🚀 Skills:<br>-UI/UX Design (Figma, Adobe XD)<br>-Frontend Development (HTML/CSS, JavaScript)<br>-Python <br>- MySQL<br>💫 Explore my projects below
+🧠​ Final year Computer science and Electronics student at NWU (RSA) <br>My Goal is to become a data scientist <br>🌌​ I design web applications and mobile aplication layouts​<br>🚀 Skills:<br>-UI/UX Design (Figma, Adobe XD)<br>-Frontend Development (HTML/CSS, JavaScript)<br>-Python-Django <br>- MySQL<br>💫 Explore my projects below
 
 
 ## 🌐 Socials:
