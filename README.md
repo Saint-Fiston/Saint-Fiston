@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠​ Final year Computer science and Electronics student at NWU (RSA) <br>💫My Goal is to become a data scientist <br>🌌​ What I do is build small automated programs in Python <br>🚀 Skills:<br>- UI/UX Design (Figma, Adobe XD)<br>- Frontend Development (HTML/CSS, JavaScript)<br>- Python <br>- MySQL <br>- Excel <br>💫 Explore my projects below
+🧠​ Final year Computer science and Electronics student at NWU (RSA) <br>💫I aspire to beecome a Data Scientist <br>🌌​ I build small automated programs in Python and also websites with Django <br>🚀 Skills:<br>- UI/UX Design (Figma, Adobe XD)<br>- Full Stack Developer (HTML/CSS, JavaScript and Django)<br>- Python <br>- MySQL <br>- Excel <br>💫 Below you can explore what I do 
 
 
 ## 🌐 Socials:
