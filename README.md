@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠​ Final year Computer science and Electronics student at NWU (RSA) <br>🌌​ I build small automated programs in Python and also websites with Django <br>🚀 Skills:<br>- UI/UX Design (Figma, Adobe XD)<br>- Full Stack Developer (HTML/CSS, JavaScript and Django)<br>- Python <br>- MySQL <br>- Excel <br>💫 Below you can explore what I do 
+🧠​ Final year Computer science and Electronics student at NWU (RSA) <br>🌌​ I enjoy building autamtion projects with python, right now I am learning how to web scrape with selenium <br>🚀 Skills:<br>- UI/UX DESIGN [FIGMA]<br>- FRONTEND [HTML, CSS, JS, REACT] <br>- MOTHER TONGUE [PYTHON] <br>- BACKEND [MYSQL, DJANGO] <br>- EXTRAS [MICROSOFT OFFICE SUITE] <br>💫 Below you can explore what I do 
 
 
 ## 🌐 Socials:
