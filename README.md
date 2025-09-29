@@ -1,5 +1,5 @@
 # About HIM:
-🧠​ Final year Computer science and Electronics student at NWU (RSA) <br>- mother tongue <br> <br>💫 Below you can explore what I do 
+🧠​ Final year Computer science and Electronics student at NWU (RSA) <br> mother tongue <br> <br> Explore Below
 
 
 ## 🌐 Socials:
